@@ -8,7 +8,7 @@
 // @supportURL  https://github.com/BlackPearl-Forum/Blackpearl-Template-Poster/issues/
 // @updateURL   https://github.com/BlackPearl-Forum/Blackpearl-Template-Poster/raw/Omdb/script.user.js
 // @downloadURL https://github.com/BlackPearl-Forum/Blackpearl-Template-Poster/raw/Omdb/script.user.js
-// @include     /^https:\/\/blackpearl\.biz\/forums\/(129|172|173|174|175|176|178|179|180|181|182|183|184|187|188|189|190|193|194|197|198|199|200|203|204|206|207|208|210|223)\/post-thread/
+// @include     /^https:\/\/blackpearl\.biz\/forums\/(81|129|172|173|174|175|176|178|179|180|181|182|183|184|187|188|189|190|193|194|197|198|199|200|203|204|206|207|208|210|223)\/post-thread/
 // @require     https://code.jquery.com/jquery-3.4.1.min.js
 // @require     https://code.jquery.com/ui/1.12.1/jquery-ui.js
 // @require     https://raw.githubusercontent.com/Semantic-Org/UI-Search/master/search.js
